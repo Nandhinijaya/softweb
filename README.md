@@ -81,7 +81,7 @@ home.html
                     </div>
                     
                     <div class="content1">Apple product</span>
-                         for Rs.1000 | Get free certificate | Intenship programs | Workshops | Hackathons | And much more...
+                         for Rs.100000| IPHONE 11 | IPHONE 12 | IPHONE 13 | IPHONE 14 | And much more...
                         <img src="/static/images/home.png"></div>
                     
                     <br>
@@ -184,7 +184,7 @@ products.html
             right:330px;
         }
         .ph4{
-            background-image: url(/static/images/carbon.png);
+            background-image: url(/static/images/P1.png);
             background-position-x: center;
             border:1px solid black;
             height:150px;
@@ -292,7 +292,7 @@ products.html
                     <div class="l6"><p align="center"><b>PHP<br> Price: 5999.00</b><br><br><br><br></p></div>
          
                 </div>
-                <div class="bot"><p>To Order Online: Call 6383377444</p></div>
+                <div class="bot"><p>To Order Online: Call 4444122333</p></div>
 
                 <div class="footer">
                 <footer style="color:white">
@@ -559,11 +559,11 @@ contact.html
                     </div>
                     <b><h2>Contact Information:</h2></b>
                     <p><b>&emsp;&ensp;Address:</b>
-                        Poonamallee, Chennai, TamilNadu, India.
+                        USA.
                     </p>
                     <ul>
                         <li><b>Landline:</b> 14345677</li>
-                        <li><b>Mobile</b>: 63837777</li>
+                        <li><b>Mobile</b>: 444412333</li>
                         <li><b>Facebook</b>: fb/Apple inc</li>
                         <li><b>Email Id:</b>appleinc@gmail.com</li>
                     </ul>
@@ -722,7 +722,7 @@ styles.css
 
 ![Screenshot (55)](https://github.com/Nandhinijaya/softweb/assets/121998147/22ab52c7-f0f8-4b95-8174-08821562c206)
 
-![Screenshot (54)](https://github.com/Nandhinijaya/softweb/assets/121998147/acae1c03-82d4-4e1b-a065-1953e1dd93d2)
+![Screenshot (54)](https://github.com/Nandhinijaya/softweb/assets/121998147/856031b6-b5cd-44f3-a1de-97005903dc0b)
 
 
 ## HTML VALIDATOR:
