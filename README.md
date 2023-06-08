@@ -715,7 +715,8 @@ styles.css
 
 ## OUTPUT:
 
-![Screenshot (52)](https://github.com/Nandhinijaya/softweb/assets/121998147/a478f5aa-e326-4796-97ba-aa308505cfed)
+
+![Screenshot (52)](https://github.com/Nandhinijaya/softweb/assets/121998147/81f31731-2553-4fd6-9db5-c8ade2b2f2fc)
 
 
 ![Screenshot (53)](https://github.com/Nandhinijaya/softweb/assets/121998147/cab63051-c13d-4da6-98b2-9c7e14f9a1a1)
